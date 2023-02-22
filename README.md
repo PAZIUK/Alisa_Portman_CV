@@ -1,10 +1,10 @@
-# Alisa-Portman-CV - Project Description <br>
+# Alisa_Portman_CV - Project Description <br>
 
 ### About <br/>
 
 The website was created by Serhiy Paziuk for his portfolio. <br/>
 
-### Website : https://paziuk.github.io/projects/sites/dilemaclothes/index.html  <br/>
+### Website : https://paziuk.github.io/Projects/Sites/Alisa_Portman_CV/index.html  <br/>
 
 ## For creating were used <br/>
 
